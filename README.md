@@ -37,6 +37,8 @@ Torrent, Warez, Porn, Crypto Exchanges, News Satire, Slickdeals (or shopping sit
 ### Just domains
 
 domains Big: [Github](https://github.com/funxiun/oisd/raw/main/big_oisd.txt) 
+
 domains Small: [Github](https://github.com/funxiun/oisd/raw/main/small_oisd.txt) 
+
 domains NSFW: [Github](https://github.com/funxiun/oisd/raw/main/nsfw_oisd.txt) 
 
