@@ -1,5 +1,6 @@
-> This project is just a mirror of [https://oisd.nl/](https://oisd.nl/)
-
+> OISD dropped the support of domain lists and focusses on AdBlock lists only.
+> This repo fills that gap and serves those domain lists.
+> The domain lists are created with the AdBlock lists as source and are updated every day.
 
 **Github [mirror](https://github.com/funxiun/oisd)**
 
@@ -36,8 +37,6 @@ Torrent, Warez, Porn, Crypto Exchanges, News Satire, Slickdeals (or shopping sit
 ### Just domains
 
 domains Big: [Github](https://github.com/funxiun/oisd/raw/main/big_oisd.txt) 
-
 domains Small: [Github](https://github.com/funxiun/oisd/raw/main/small_oisd.txt) 
-
 domains NSFW: [Github](https://github.com/funxiun/oisd/raw/main/nsfw_oisd.txt) 
 
