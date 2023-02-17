@@ -18598,7 +18598,6 @@ config.mobilegamestats.com
 config.parsely.com
 config.safedk.com
 config.sensic.net
-config2.mparticle.com
 configuration.ttpsdk.info
 configurationluxuriantinclination.com
 confinedneighthimble.com
@@ -21394,7 +21393,6 @@ datado.me
 datadog-service.mvfglobal.com
 datadsk.com
 datafeed.a8.net
-datafeedfile.com
 dataflexy.com.br
 datahawkanalytics.com
 dataidea.it
@@ -55973,7 +55971,6 @@ s2sterra.com
 s2strk.info
 s3-analytics-events.easybrain.com
 s3.addthis.com
-s3.eu-west-2.wasabisys.com
 s3.lightboxcdn.com
 s3.pfp.sina.net
 s3.smartphonehoesjes.nl
