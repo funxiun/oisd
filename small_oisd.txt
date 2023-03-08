@@ -5854,6 +5854,7 @@ advert.polonsil.ru
 advert.punyu.com
 advert.rabaldermedia.se
 advert.uloz.to
+advert.wiztube.xyz
 advert360.com
 advertag.in
 advertarium.com.ua
@@ -9236,7 +9237,6 @@ appserver-cp.com
 appservestar.com
 appsfire.com
 appsflybeta.biz
-appsflyer-report.honkaiimpact3.com
 appsflyer.club
 appsflyer.com.akamaized.net
 appshelf.ttpsdk.info
@@ -9421,7 +9421,6 @@ areasonsimon.club
 areavinil.com
 arechassista.top
 areebacollection.com
-areelbagwyn.com
 areelektrosstor.com
 arefingroupbd.com
 areiabranca204214512.s3.amazonaws.com
@@ -15358,6 +15357,7 @@ cdn.viglink.com
 cdn.wadawada-stop-report-us.com
 cdn.webpushr.com
 cdn.wg.uproxx.com
+cdn.wiztube.xyz
 cdn.wuyou.ca
 cdn.xbcpcn.com
 cdn.yanews24.com
@@ -19839,7 +19839,6 @@ d3ep3jwb1mgn3k.cloudfront.net
 d3evio1yid77jr.cloudfront.net
 d3f1m03rbb66gy.cloudfront.net
 d3f1wcxz2rdrik.cloudfront.net
-d3f3.xyz
 d3f4nuq5dskrej.cloudfront.net
 d3f4u3khr0ycep.cloudfront.net
 d3fkv551xkjrmm.cloudfront.net
@@ -21412,7 +21411,6 @@ dilavermusa.com
 dilemmafreakish.com
 dilemmatryingless.com
 diliganz.lk
-dilliskunhome.com
 dillsloppy.com
 dilruwha.net
 dilsererestaurant.in
@@ -25815,7 +25813,6 @@ fermejambo.com
 fermierulbistrita.ro
 fermolo.info
 fernandosantos.adv.br
-fernandou.online
 fernomius.com
 ferociousvirtual.com
 feroffer.com
@@ -39363,7 +39360,6 @@ masharilogistics.com
 mashmantalpa.digital
 mashoteles.com.pa
 masilight.com.ng
-masjidspondful.com
 masklink.org
 masonercorking.com
 masonicregaliasupplies.com
@@ -44620,7 +44616,6 @@ okbp.xyz
 okclub.org.uk
 okcounter.com
 okdglfzt.page.link
-okdi.top
 okdigital.me
 okidata.fr
 okingabodew.xyz
@@ -55864,7 +55859,6 @@ sleepywin.com
 sleeveashame.com
 sleightraumatize.com
 slempitdesa.gresikkab.go.id
-slfindmarket.live
 slfj564.xyz
 slfpu.com
 slfsmf.com
@@ -61145,7 +61139,6 @@ tiglesoshi.pro
 tiglon.beyondco.de
 tiglon.orisdental.no
 tigloproperties.com
-tik-billion.click
 tik-culture.click
 tik-soon.click
 tikatcom.ma
@@ -67471,7 +67464,6 @@ wizkrdxivl.com
 wizliebeg.com
 wizlink.com.sg
 wizmeek.com
-wiztube.xyz
 wizwarsum.site
 wizzybytesdata.com
 wjbrinsb.com
@@ -67926,7 +67918,6 @@ wugabts.com
 wujrx.xyz
 wukbgater.buzz
 wukoopicee.com
-wumao20230301.live
 wumei91.cc
 wumpeeps.net
 wumteecoodsu.com
@@ -68960,7 +68951,6 @@ yfedatherappeal.xyz
 yfedatherappear.com.ua
 yfetyg.com
 yfhnikaah.xyz
-yflog.me
 yfmhik.xyz
 yforaglasys.xyz
 yfot.com.cn
